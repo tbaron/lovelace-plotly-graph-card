@@ -206,6 +206,7 @@ class ConfigParser {
             mode: "text+markers",
             showlegend: false,
             hoverinfo: "skip",
+            hovertemplate: null,
             textposition: "middle right",
             marker: {
               color: trace.line?.color,
